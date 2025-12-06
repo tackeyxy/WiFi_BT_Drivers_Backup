@@ -1,17 +1,17 @@
 {
   "Intel": [
       {
-        "WIFI_Type": "WIFI6/WIFI7",
+        "WIFI_Type": "WIFI5/WIFI6/WIFI7",
         "Supported_Devices": "ac9XXX/ax/be/Killer",
         "WIFI_Version": "24.0.2.1",
         "BT_Version": "24.10.0.4",
         "Os_Version":"Windows 11/Windows 10 (x64)",
         "Update_Time": "2025/10/21",
-        "BT_link": "",
-        "WIFI_link": ""
+        "BT_link": "https://gh-proxy.org/https://github.com/tackeyxy/WiFi_BT_Drivers_Backup/blob/main/Intel/intel_bt_24.10.0.4.7z",
+        "WIFI_link": "https://gh-proxy.org/https://github.com/tackeyxy/WiFi_BT_Drivers_Backup/blob/main/Intel/intel_wifi_24.0.2.1.7z"
       }
     ],
-    "MediaTek": [
+  "MediaTek": [
       {
         "WIFI_Type": "WIFI6",
         "Supported_Devices": "RZ6xx (MT7922/MT7921/MT7902)",
@@ -19,8 +19,8 @@
         "BT_Version": "1.1044.0.556",
         "Os_Version":"Windows 11/Windows 10 (x64)",
         "Update_Time": "2025/10/15",
-        "BT_link": "",
-        "WIFI_link": ""
+        "BT_link": "https://gh-proxy.org/https://github.com/tackeyxy/WiFi_BT_Drivers_Backup/blob/main/MediaTek/rz6xx/BT_AMD-MediaTek_v1.1044.0.556.zip",
+        "WIFI_link": "https://gh-proxy.org/https://github.com/tackeyxy/WiFi_BT_Drivers_Backup/blob/main/MediaTek/rz6xx/WiFi_AMD-MediaTek_v3.5.0.1349.zip"
       },
       {
         "WIFI_Type": "WIFI7",
@@ -29,11 +29,11 @@
         "BT_Version": "1.1044.0.557",
         "Os_Version":"Windows 11/Windows 10 (x64)",
         "Update_Time": "2025/10/15",
-        "BT_link": "",
-        "WIFI_link": ""
+        "BT_link": "https://gh-proxy.org/https://github.com/tackeyxy/WiFi_BT_Drivers_Backup/blob/main/MediaTek/rz7xx/BT_AMD-MediaTek_v1.1044.0.557.zip",
+        "WIFI_link": "https://gh-proxy.org/https://github.com/tackeyxy/WiFi_BT_Drivers_Backup/blob/main/MediaTek/rz7xx/WiFi_AMD-MediaTek_v5.7.0.4755.zip"
       }
     ],
-    "Qualcomm": [
+  "Qualcomm": [
       {
         "WIFI_Type": "WIFI6",
         "Supported_Devices": "WCN685X (NFA765/NFA725)",
@@ -41,8 +41,8 @@
         "BT_Version": "2.0.0.1229",
         "Os_Version":"Windows 11/Windows 10 (x64)",
         "Update_Time": "2025/03/20",
-        "BT_link": "",
-        "WIFI_link": ""
+        "BT_link": "https://gh-proxy.org/https://github.com/tackeyxy/WiFi_BT_Drivers_Backup/blob/main/Qualcomm/WCN685X/qualcomm_bt_2.0.0.1229.zip",
+        "WIFI_link": "https://gh-proxy.org/https://github.com/tackeyxy/WiFi_BT_Drivers_Backup/blob/main/Qualcomm/WCN685X/qualcomm_wlan_2.0.0.1292.zip"
       },
       {
         "WIFI_Type": "WIFI7",
@@ -51,11 +51,11 @@
         "BT_Version": "3.1.0.1487",
         "Os_Version":"Windows 11",
         "Update_Time": "2025/05/22",
-        "BT_link": "",
-        "WIFI_link": ""
+        "BT_link": "https://gh-proxy.org/https://github.com/tackeyxy/WiFi_BT_Drivers_Backup/blob/main/Qualcomm/WCN785X/qualcomm_bt_3.1.0.1487.zip",
+        "WIFI_link": "https://gh-proxy.org/https://github.com/tackeyxy/WiFi_BT_Drivers_Backup/blob/main/Qualcomm/WCN785X/qualcomm_wlan_3.1.0.1487.zip"
       }
     ],
-    "Broadcom": [
+  "Broadcom": [
       {
         "WIFI_Type": "WIFI5",
         "Supported_Devices": "BCM43XX",
@@ -63,8 +63,8 @@
         "BT_Version": "12.0.1.1080",
         "Os_Version":"Windows 10/Windows 8.1",
         "Update_Time": "2020/02/10",
-        "BT_link": "",
-        "WIFI_link": ""
+        "BT_link": "https://gh-proxy.org/https://github.com/tackeyxy/WiFi_BT_Drivers_Backup/blob/main/Broadcom/Bluetooth_Broadcom_12.0.1.1080_W810.7z",
+        "WIFI_link": "https://gh-proxy.org/https://github.com/tackeyxy/WiFi_BT_Drivers_Backup/blob/main/Broadcom/broadcom-802-11ac-network-adapter-7.77.119.0.zip"
       }
     ]
 }

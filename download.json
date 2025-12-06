@@ -1,0 +1,70 @@
+{
+  "Intel": [
+      {
+        "WIFI_Type": "WIFI6/WIFI7",
+        "Supported_Devices": "ac9XXX/ax/be/Killer",
+        "WIFI_Version": "24.0.2.1",
+        "BT_Version": "24.10.0.4",
+        "Os_Version":"Windows 11/Windows 10 (x64)",
+        "Update_Time": "2025/10/21",
+        "BT_link": "",
+        "WIFI_link": ""
+      }
+    ],
+    "MediaTek": [
+      {
+        "WIFI_Type": "WIFI6",
+        "Supported_Devices": "RZ6xx (MT7922/MT7921/MT7902)",
+        "WIFI_Version": "3.5.0.1349",
+        "BT_Version": "1.1044.0.556",
+        "Os_Version":"Windows 11/Windows 10 (x64)",
+        "Update_Time": "2025/10/15",
+        "BT_link": "",
+        "WIFI_link": ""
+      },
+      {
+        "WIFI_Type": "WIFI7",
+        "Supported_Devices": "RZ7xx (MT7925/MT7927)",
+        "WIFI_Version": "5.7.0.4755",
+        "BT_Version": "1.1044.0.557",
+        "Os_Version":"Windows 11/Windows 10 (x64)",
+        "Update_Time": "2025/10/15",
+        "BT_link": "",
+        "WIFI_link": ""
+      }
+    ],
+    "Qualcomm": [
+      {
+        "WIFI_Type": "WIFI6",
+        "Supported_Devices": "WCN685X (NFA765/NFA725)",
+        "WIFI_Version": "2.0.0.1292",
+        "BT_Version": "2.0.0.1229",
+        "Os_Version":"Windows 11/Windows 10 (x64)",
+        "Update_Time": "2025/03/20",
+        "BT_link": "",
+        "WIFI_link": ""
+      },
+      {
+        "WIFI_Type": "WIFI7",
+        "Supported_Devices": "WCN785X (NCM865/NCM835/NCM825)",
+        "WIFI_Version": "3.1.0.1487",
+        "BT_Version": "3.1.0.1487",
+        "Os_Version":"Windows 11",
+        "Update_Time": "2025/05/22",
+        "BT_link": "",
+        "WIFI_link": ""
+      }
+    ],
+    "Broadcom": [
+      {
+        "WIFI_Type": "WIFI5",
+        "Supported_Devices": "BCM43XX",
+        "WIFI_Version": "7.77.119.0",
+        "BT_Version": "12.0.1.1080",
+        "Os_Version":"Windows 10/Windows 8.1",
+        "Update_Time": "2020/02/10",
+        "BT_link": "",
+        "WIFI_link": ""
+      }
+    ]
+}

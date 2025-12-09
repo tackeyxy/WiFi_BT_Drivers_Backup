@@ -66,5 +66,43 @@
         "BT_link": "https://gh-proxy.org/https://github.com/tackeyxy/WiFi_BT_Drivers_Backup/blob/main/Broadcom/Bluetooth_Broadcom_12.0.1.1080_W810.7z",
         "WIFI_link": "https://gh-proxy.org/https://github.com/tackeyxy/WiFi_BT_Drivers_Backup/blob/main/Broadcom/broadcom-802-11ac-network-adapter-7.77.119.0.zip"
       }
+    ],
+  "Realtek": [
+      {
+        "WIFI_Type": "USB-WIFI",
+        "Supported_Devices": "RTL8192cu/RTL8192du/RTL8723au/RTL8188eu/RTL8812au/RTL8811au/RTL8192eu/RTL8813au",
+        "WIFI_Version": "1030.52.0731.2025",
+        "Os_Version":"Windows 10/Windows 11",
+        "Update_Time": "2025/07/31",
+        "WIFI_link": ""
+      },
+      {
+        "WIFI_Type": "WIFI5",
+        "Supported_Devices": "RTL8821AE/RTL8192EE/RTL8723BE/RTL8822BE/RTL8822CE/RTL8821CE",
+        "WIFI_Version": "2024.0.8.145",
+        "Os_Version":"Windows 10/Windows 11",
+        "Update_Time": "2025/09/11",
+        "WIFI_link": ""
+      },
+      {
+        "WIFI_Type": "WIFI6",
+        "Supported_Devices": "RTL8822CE/RTL8822CE-VS/RTL8852AE/RTL8852BE/RTL8852CE/RTL8922AE/8852BE-VT",
+        "WIFI_Version": "6001.15.161.0",
+        "BT_Version": "18.4024.2503.2700",
+        "Os_Version":"Windows 11/Windows 10",
+        "Update_Time": "2025/10/16",
+        "BT_link": "",
+        "WIFI_link": ""
+      },
+      {
+        "WIFI_Type": "WIFI7",
+        "Supported_Devices": "RTL8922AE",
+        "WIFI_Version": "6102.24.138.0",
+        "BT_Version": "18.4032.2510.0901",
+        "Os_Version":"Windows 11",
+        "Update_Time": "2025/10/16",
+        "BT_link": "",
+        "WIFI_link": ""
+      }
     ]
 }

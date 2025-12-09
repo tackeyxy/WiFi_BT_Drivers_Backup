@@ -1,7 +1,6 @@
 {
   "Intel": [
       {
-        "WIFI_Type": "",
         "Supported_Devices": "ac9XXX/ax/be/Killer",
         "WIFI_Version": "24.0.2.1",
         "BT_Version": "24.10.0.4",

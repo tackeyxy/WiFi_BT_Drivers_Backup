@@ -39,9 +39,19 @@
         "Supported_Devices": "WCN685X (NFA765/NFA725)",
         "WIFI_Version": "2.0.0.1292",
         "BT_Version": "2.0.0.1229",
-        "Os_Version":"Windows 11/Windows 10 (x64)",
+        "Os_Version":"Windows 11",
         "Update_Time": "2025/03/20",
         "BT_link": "https://gh-proxy.org/https://github.com/tackeyxy/WiFi_BT_Drivers_Backup/blob/main/Qualcomm/WCN685X/qualcomm_bt_2.0.0.1229.zip",
+        "WIFI_link": "https://gh-proxy.org/https://github.com/tackeyxy/WiFi_BT_Drivers_Backup/blob/main/Qualcomm/WCN685X/qualcomm_wlan_2.0.0.1292.zip"
+      },
+      {
+        "WIFI_Type": "WIFI6",
+        "Supported_Devices": "WCN685X (NFA765/NFA725)",
+        "WIFI_Version": "1.0.0.1737",
+        "BT_Version": "2.0.0.1229",
+        "Os_Version":"Windows 10",
+        "Update_Time": "2025/03/16",
+        "BT_link": "https://gh-proxy.org/https://github.com/tackeyxy/WiFi_BT_Drivers_Backup/blob/main/Qualcomm/WCN685X/qualcomm_wlan_1.0.0.1737.zip",
         "WIFI_link": "https://gh-proxy.org/https://github.com/tackeyxy/WiFi_BT_Drivers_Backup/blob/main/Qualcomm/WCN685X/qualcomm_wlan_2.0.0.1292.zip"
       },
       {

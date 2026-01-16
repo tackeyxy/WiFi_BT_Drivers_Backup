@@ -15,12 +15,12 @@
       {
         "WIFI_Type": "WIFI6",
         "Supported_Devices": "RZ6xx (MT7922/MT7921/MT7902)",
-        "WIFI_Version": "3.5.0.1349",
+        "WIFI_Version": "3.5.2.1374",
         "BT_Version": "1.1044.0.556",
         "Os_Version":"Windows 11/Windows 10 (x64)",
-        "Update_Time": "2025/10/15",
+        "Update_Time": "2026/01/15",
         "BT_link": "https://gh-proxy.org/https://github.com/tackeyxy/WiFi_BT_Drivers_Backup/blob/main/MediaTek/rz6xx/BT_AMD-MediaTek_v1.1044.0.556.zip",
-        "WIFI_link": "https://gh-proxy.org/https://github.com/tackeyxy/WiFi_BT_Drivers_Backup/blob/main/MediaTek/rz6xx/WiFi_AMD-MediaTek_v3.5.0.1349.zip"
+        "WIFI_link": "https://gh-proxy.org/https://github.com/tackeyxy/WiFi_BT_Drivers_Backup/blob/main/MediaTek/rz6xx/WiFi_AMD-MediaTek__v3.5.2.1374.zip"
       },
       {
         "WIFI_Type": "WIFI7",
